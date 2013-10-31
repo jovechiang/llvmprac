@@ -1,4 +1,3 @@
-
 type token =
   |Def
   |Extern
